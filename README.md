@@ -37,3 +37,6 @@ It includes `@mui/material` and its peer dependencies, including [Emotion](https
 
 You now have a working example project.
 You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+
+
+https://stackoverflow.com/questions/78084209/how-to-get-mui-material-ui-blog-template-to-load-in-vite/78084384#78084384
